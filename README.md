@@ -2,6 +2,8 @@
 
 A Quick How-To guide to set up NWN2 for Multiplayer
 
+https://lucanops-my.sharepoint.com/:u:/g/personal/nick_lucanops_co_uk/ERXkM-F1UURFrushN_ZzPIwBECI-KLhzpG5XnpkR7NrWdg?e=awyCDy
+
 ## Installation
 * Install NWN2 (Ideally with the 2 extra Content)
 * Download the Client Extension https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=2302
