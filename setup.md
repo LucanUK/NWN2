@@ -1,6 +1,6 @@
 ## Installation
 * Install NWN2 (Ideally with the 2 extra Content)
-* Download the Client Extension https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=2302
+* Download the Client Extension https://neverwintervault.org/project/nwn2/other/nwn2-client-extension
 * Double Click the "hdlinstall.reg" file in the Client Extension zip (and accept and okay any warnings) ![hdlinstall.reg](https://github.com/LucanUK/NWN2/blob/498c181b0c39b46c2d573bdd9fb29ea3e7020556/images/NWN2-1.PNG)
 * Copy the contents of the Client Extension to the "Neverwinter Nights 2" installation folder
 * Run "Multiplayer Key Changer" (Should have installed with NWN2) and add your keys 
