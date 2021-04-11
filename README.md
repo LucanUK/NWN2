@@ -22,7 +22,7 @@ A Quick How-To guide to set up NWN2 for Multiplayer
 ## Connecting to A Server
 * Start NWN2 via NWLauncher
 * Click Multiplayer
-* When asked for a BioWare Account just put any name and passowrd combo and click Sign-In
+* When asked for a BioWare Account just put any name (Only for me to see on the server) and passowrd combo and click Sign-In (You DO NOT need to make an account)
 * You should get a "I cant connect to the master server..." error, just click OK
 * Select Direct Connect
 * Server IP/Name: nwn2.lucanops.net
