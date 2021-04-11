@@ -8,10 +8,10 @@ Initial [Setup Guide](https://github.com/LucanUK/NWN2/blob/17ee6947140b70ddc30dd
 ## Campaigns
 These links should just be extractable into your Neverwinter Nights 2 "Documents" folder
 
+[White Plume Moutain](https://lucanops-my.sharepoint.com/:u:/g/personal/nick_lucanops_co_uk/ERXkM-F1UURFrushN_ZzPIwBECI-KLhzpG5XnpkR7NrWdg?e=awyCDy)
+
 ## Main Server Details
 Server IP/Name: **nwn2.lucanops.net**
-
-[White Plume Moutain](https://lucanops-my.sharepoint.com/:u:/g/personal/nick_lucanops_co_uk/ERXkM-F1UURFrushN_ZzPIwBECI-KLhzpG5XnpkR7NrWdg?e=awyCDy)
 
 ## Importing a Existing Character
 If you have a character created in single player, you can export the character for use on the server
