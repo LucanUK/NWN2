@@ -22,10 +22,18 @@ A Quick How-To guide to set up NWN2 for Multiplayer
 ## Connecting to A Server
 * Start NWN2 via NWLauncher
 * Click Multiplayer
-* When asked for a BioWare Account just put any name (Only for me to see on the server) and passowrd combo and click Sign-In (You DO NOT need to make an account)
+* When asked for a BioWare Account just put any name (Used for character vault seperation) and passowrd combo and click Sign-In (You DO NOT need to make an account)
 * You should get a "I cant connect to the master server..." error, just click OK
 * Select Direct Connect
-* Server IP/Name: nwn2.lucanops.net
+* **Server IP/Name: nwn2.lucanops.net**
 * Create Your New Character
+
+## Importing a Existing Charater
+If you have a character created in single player, you can export the character for use on the server
+
+* Export Character from in NWN2
+* Goto your "Documents" folder in My Computer
+* Then goto "Neverwinter Nights 2\localvault"
+* Send me the .bic file for your character and also the BioWare Account name used for multiplayer
 
 Enjoy!
